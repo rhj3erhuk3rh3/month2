@@ -1,0 +1,24 @@
+ body {
+     margin: 100px;
+     padding: 100px;
+     background: lime;
+ }
+ .wv1{
+     margin-left: 60px;
+     font-size: 55px;
+     text-align: center;
+     justify-content: center;
+     height: 70px;
+
+
+ }
+
+ input {
+    background-color: black;
+    color: white;
+    width: 200px;
+    text-align: center;
+ }
+ button {
+     background-color: firebrick;
+ }
