@@ -23,5 +23,5 @@ console.log(all);
 
 btn.onclick =function () {
     let v = document.getElementById('input'). value;
-    document.getElementById('dz').innerHTML='Салам '+ v +':))';
+    document.getElementById('dz').innerHTML='Салам Родной!!! '+ v +':))';
 }
